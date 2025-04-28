@@ -1,7 +1,8 @@
 # SGDS-Net: SAM-Guided Dual-Student Network for Weakly Supervised Semantic Segmentation
 
 **Official PyTorch implementation of the paper: _"SGDS-Net: SAM-Guided Dual-Student Network for Weakly Supervised Semantic Segmentation via Generating Higher Quality CAM"._**
-![fig3](https://github.com/user-attachments/assets/9a6154d5-9f83-4e7e-9f8d-dbb368035fdc)
+![fig3](https://github.com/user-attachments/assets/568becf7-1c38-42e2-b0ee-57a657a4dd2a)
+
 
 ## 🔍 Introduction
 
